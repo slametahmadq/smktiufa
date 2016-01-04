@@ -14,6 +14,7 @@
 Generate from archetype
 
 mvn archetype:generate 
+
 -DarchetypeGroupId=org.meruvian.yama \
 -DarchetypeArtifactId=yama-starter-archetype \
 -DarchetypeVersion=2.0.0.Beta2

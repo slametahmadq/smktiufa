@@ -1,13 +1,13 @@
 # smktiufa
 #Prerequisites
 
-JDK >= 1.6
-Maven 3
-MySQL
-Nodejs
-Grunt CLI
-Bower
-Quickstart
+1. JDK >= 1.6
+2. Maven 3
+3. MySQL
+4. Nodejs
+5. Grunt CLI
+6. Bower
+7. Quickstart
 
 #Running Yama
 

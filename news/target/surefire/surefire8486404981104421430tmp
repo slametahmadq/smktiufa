@@ -1,0 +1,5 @@
+#surefire
+#Wed Dec 30 09:18:06 WIB 2015
+user.dir=/home/slamet/yamaha/news
+localRepository=/home/slamet/.m2/repository
+basedir=/home/slamet/yamaha/news

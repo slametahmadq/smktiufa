@@ -13,11 +13,11 @@
 
 Generate from archetype
 
-mvn archetype:generate \
--DarchetypeGroupId=org.meruvian.yama \
--DarchetypeArtifactId=yama-starter-archetype \
--DarchetypeVersion=2.0.0.Beta2
-Change database configuration on webapi/src/main/resources/config/yama-dev.yml Create database schema
+>mvn archetype:generate \
+>-DarchetypeGroupId=org.meruvian.yama \
+>-DarchetypeArtifactId=yama-starter-archetype \
+>-DarchetypeVersion=2.0.0.Beta2
+>Change database configuration on webapi/src/main/resources/config/yama-dev.yml Create database schema
 
 Install node and bower dependency in webpp directory
 

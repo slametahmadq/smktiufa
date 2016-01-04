@@ -31,8 +31,8 @@ $ npm install
 
 $ bower install
 
-Run Yama
+#Run Yama
 
-$ cd <yama-root-directory>
+$ cd <--yama-root-directory-->
 
 $ mvn test -Pwebapi

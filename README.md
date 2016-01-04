@@ -1,7 +1,7 @@
 # smktiufa
 #Prerequisites
 
-1. JDK >= 1.6
+1. JDK >= 1.8
 2. Maven 3
 3. MySQL
 4. Nodejs
